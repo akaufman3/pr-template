@@ -10,11 +10,17 @@
 - [ ]  If its a new feature, have docs been created? Please link to docs here.
 - [ ] Please make sure all comments are marked resolved or have a closing comment signling completed work or final decision.
 
+
+Example PR: [link]
+
+
 ## Jira Ticket
 ex. https://jira.[company].com/browse/[ticket-num]
 
+
 ## Description
 ex. AC from ticket
+
 
 ## Steps to Test or Reproduce
 1. Add block.
